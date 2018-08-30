@@ -1,0 +1,16 @@
+{
+    "name": "process",
+    "dependencies": {
+        "archiver": "^2.1.1",
+        "babel-polyfill": "^6.26.0",
+        "body-parser": "^1.18.2",
+        "decompress": "^4.2.0",
+        "express": "^4.16.3",
+        "fs-extra": "^5.0.0",
+        "python-shell": "^0.5.0",
+        "request": "^2.87.0",
+        "uuid": "^3.2.1",
+        "webtask-preprocess-pylib": "latest",
+        "webtask-tools": "^3.2.1"
+    }
+}
